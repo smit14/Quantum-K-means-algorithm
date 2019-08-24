@@ -6,7 +6,7 @@ Comparision of Classical and Quantum approach for K-means Clustering
 
 # Description
 
-We implemented a quantum circuit to cluter the data points in one-shot algorithm. 
+I implemented a quantum circuit to find distance between two n-dimensional data points in O(1) time. Which can significantly reduce the time complexity if executed on quantum computer.
 
 # Tools and libraries
 * Numpy
